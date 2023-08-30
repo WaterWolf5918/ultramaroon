@@ -1,7 +1,7 @@
 ![Screenshot](static/img/logo_withText4.png)
 A website for accessing content blocked by your school, hiding what your searching for, and keeping your IP hidden.
 
-### You can find a live build [here](https://ultramaroon.me/)
+### You can find a live build [here]()
 
 ## Credits
 - Ultraviolet, for the inner workings of the proxy.
